@@ -1,8 +1,8 @@
 function showCongrats() {
     document.body.innerHTML = `
         <div class="wrapper">
-            <h2>Congratulations! 🎉🎊</h2>
-            <p>I Love You too Sanu 💖</p>
+            <h2>I Love You too Sanu 💖</h2>
+            <p>Thankyou! Puku,😘💋</p>
         </div>
         <canvas class="confetti"></canvas>
     `;
